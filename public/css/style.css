@@ -1,0 +1,17 @@
+.chat-box {
+  height: 400px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  padding: 10px;
+  background-color: #f8f9fa;
+}
+
+.chat-message-right {
+  max-width: 70%;
+  text-align: right;
+}
+
+.chat-message-left {
+  max-width: 70%;
+  text-align: left;
+}
